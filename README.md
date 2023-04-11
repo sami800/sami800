@@ -7,7 +7,7 @@ I'm a recently Computer Science Graduate 👨‍🎓 2020,
 Webmaster and Software Engineer 👨‍💻.
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Fullstack and Machine Learning.
+- 🌱 I’m currently learning Full Stack and Machine Learning.
 - 👯 I’m looking to collaborate on with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects
 
