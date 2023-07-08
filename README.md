@@ -40,8 +40,4 @@ Tools
 </p>
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,angular,ts,dotnet,cs,cpp,vim,kotlin,php,py,sass,unity,graphql,gatsby " />
-  </a>
-</p>
+
