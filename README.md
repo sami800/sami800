@@ -6,7 +6,7 @@
 I'm a Computer Science Graduate 👨‍🎓 2020,
 Webmaster and Software Engineer 👨‍💻.
 
-- 🔭 I’m currently working on my personal project
+- 🔭 I’m currently working on my personal projects and blogs
 - 🥅 Goals: Contribute more to Open Source projects
 
 Languages 
