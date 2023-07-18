@@ -2,7 +2,7 @@
 <h1 align="center"> "Hi there, 👋 I'm Sami Abdulwahab </h1>
 
 <h2 align="center" > 
-<a  href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70709&vCenter=true&width=435&lines=I'm+Web+Developer;Software+Developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70709&vCenter=true&width=435&lines=I'm+Web+Developer;Software+Developer+" alt="Typing SVG" /></a>
 </h2>
 <!--
 **sami800/sami800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
