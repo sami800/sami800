@@ -8,7 +8,7 @@
 **sami800/sami800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm a Computer Science Graduate 👨‍🎓 2020,
-Webmaster and Software Engineer 👨‍💻.
+Software & Web Developer 👨‍💻.
 
 - 🔭 I’m currently working on my personal projects and blogs
 - 🥅 Goals: Contribute more to Open Source projects
